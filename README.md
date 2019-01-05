@@ -1,4 +1,4 @@
-# MNIST data set
+# Hand written Digit Recognizer challenge (MNIST data set)
 https://www.kaggle.com/c/digit-recognizer
 
 the challange was to train computer to recognize hand writtien digits

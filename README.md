@@ -5,3 +5,4 @@ the challange was to train computer to recognize hand writtien digits
 
 ## test accuracy of 97.98%
 MNIST problem solution by Convolutional neural network with tensorflow with test accuracy of 97.98%
+![MNIST](MNIST.png)
